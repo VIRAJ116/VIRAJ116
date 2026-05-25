@@ -40,13 +40,6 @@ Full-stack pizza ordering app built with **React 19, Node.js, Express & MySQL**
 
 ---
 
-## 📊 GitHub Stats
-
-![Viraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VIRAJ116&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VIRAJ116&layout=compact&theme=dark)
-
----
-
 ## 🔗 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raiyaniviraj)
