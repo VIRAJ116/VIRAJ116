@@ -32,7 +32,7 @@
 
 ## 🚀 Featured Project
 
-### 🍕 [PieRush](https://github.com/VIRAJ116/PieRush)
+### 🍕 [PieRush](https://github.com/VIRAJ116/mern)
 Full-stack pizza ordering app built with **React 19, Node.js, Express & MySQL**
 - JWT auth, RBAC, Razorpay payment integration
 - Pizza customizer with dynamic pricing
