@@ -1,6 +1,6 @@
 # Hi, I'm Viraj Raiyani 👋
 
-🚀 Senior Frontend Developer @ NetAI Inc. | MERN Stack | 3+ Years Experience  
+🚀 Senior Software Developer @ NetAI Inc. | MERN Stack | 3.5+ Years Experience  
 📍 Ahmedabad, Gujarat | Open to Frontend / Full-Stack Opportunities
 
 ---
