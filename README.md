@@ -9,7 +9,7 @@
 
 - 🔭 Currently building **network management apps** with Next.js, D3.js & AI chatbots
 - 💼 3+ years experience in **React.js, Next.js, Node.js, Express.js**
-- 🛠️ Worked at **Brainvire Infotech**, **MKS Digitech**, and now **NetAI Inc.**
+- 🛠️ Worked at **Brainvire Infotech** and **NetAI Inc.**
 - 🌱 Always learning — currently exploring **AWS & system design**
 - 📫 Reach me at: **virajraiyani162@gmail.com**
 
